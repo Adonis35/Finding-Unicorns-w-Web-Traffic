@@ -2,7 +2,7 @@
 
 ### Authors: Adonis Abdullah
 
-For my data science master's capstone, I created a tool that investors at Old Well Partners could use to make better investment decisions and more easily find trending startups. This project leveraged the SimilarWeb API Wrapper that I developed for the company, and this project helped to solve the problem of keeping up with all the data that has emerged across finance. The automated reports detail a company's current web traffic health, where it is headed in the future, and how that web traffic trends will impact their company valuation.
+For my data science master's capstone, I created a tool that investors at Old Well Partners could use to make better investment decisions and more easily find trending startups. This project leveraged the <a href="https://github.com/Adonis35/SimilarWeb-API-Wrapper">SimilarWeb API Wrapper</a> that I developed for the company, and this project helped to solve the problem of keeping up with all the data that has emerged across finance. The automated reports detail a company's current web traffic health, where it is headed in the future, and how that web traffic trends will impact their company valuation.
 
 #### Responsibilites:
 * Create automated reports
